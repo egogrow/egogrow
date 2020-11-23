@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm [egogrow!] 👋
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmadplay)](https://hits.seeyoufarm.com) 
+
+</div>
+
+![egogrow's github stats](https://github-readme-stats.vercel.app/api?username=egogrow&show_icons=true&include_all_commits=true&theme=dracula)
 
 <!--
 **egogrow/egogrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
