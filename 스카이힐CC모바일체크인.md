@@ -21,3 +21,21 @@
 ![image](https://github.com/dev-jihoon-lee/devlop/assets/51776656/c16551d9-e404-47bd-83f6-4717320dd664)
 ![image](https://github.com/dev-jihoon-lee/devlop/assets/51776656/94a7ece0-42a5-40f8-bc42-92fe5842e86f)
 ![image](https://github.com/dev-jihoon-lee/devlop/assets/51776656/824c03b2-5d5c-48bc-bdd2-56a69673042e)
+
+## [어드민] 로리스 모바일 체크인
+
+
+## [어드민-로리스] 단위테스트
+![1](https://github.com/dev-jihoon-lee/devlop/assets/51776656/b6f6c68f-1989-4ffc-96c9-34cb6de7830c)
+![2](https://github.com/dev-jihoon-lee/devlop/assets/51776656/0d864b10-7e20-450f-b551-793543d410c2)
+![3](https://github.com/dev-jihoon-lee/devlop/assets/51776656/5fc26352-4bf3-46af-8635-b4124b054167)
+![4](https://github.com/dev-jihoon-lee/devlop/assets/51776656/6ecf0f00-ecd3-47c4-9e73-6567114dc4c4)
+![5](https://github.com/dev-jihoon-lee/devlop/assets/51776656/80a1faf6-3c24-4195-8f7b-530518883801)
+![api1](https://github.com/dev-jihoon-lee/devlop/assets/51776656/6ab07abf-adca-4328-8eec-82a5c3b35dfb)
+![api2](https://github.com/dev-jihoon-lee/devlop/assets/51776656/a12cbeb3-0a3a-4983-8a14-8d5704e63681)
+![api3](https://github.com/dev-jihoon-lee/devlop/assets/51776656/99da25bb-d140-4857-a73d-6d26aeb46877)
+![api4](https://github.com/dev-jihoon-lee/devlop/assets/51776656/b0e0ab5b-5fd9-4e5f-abee-f0c5356e8d78)
+![postman1](https://github.com/dev-jihoon-lee/devlop/assets/51776656/a82dd8bd-bc58-4b90-92dc-e6c8ec95e2fe)
+![postman2](https://github.com/dev-jihoon-lee/devlop/assets/51776656/973b491b-488b-452f-bf53-ed5509fa7b69)
+![postman3](https://github.com/dev-jihoon-lee/devlop/assets/51776656/2b112378-4b15-4279-86c3-7e8c6a9defad)
+![postman4](https://github.com/dev-jihoon-lee/devlop/assets/51776656/3b1fa5f3-c770-408e-a11b-eb7570071c45)
